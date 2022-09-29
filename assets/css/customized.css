@@ -67,10 +67,22 @@
 .middleBoxTextLeft{
     color: white;
     padding: 0.25em;
+    font-weight: bold;
+    font-size: 2em;
 }
 
 
 
 .middleBoxTextRight{
+    color:  #106EEA ;
+    padding: 0.25em;
+    font-weight: bold;
+    font-size: 2em;
 
+}
+
+
+.competitionsTypesDiv{
+    display: flex;
+    alignment: center;
 }
