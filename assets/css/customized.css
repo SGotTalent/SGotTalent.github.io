@@ -138,3 +138,38 @@
     background-size: cover;
     position: relative;
 }
+#vocalSoloCompetition{
+
+    padding: 5em 0;
+    background:  url("/images/vocalSolo.png") no-repeat ;
+    background-size: cover;
+    position: relative;
+}
+#photographyCompetition{
+
+    padding: 5em 0;
+    background:  url("/images/photographyCompetition.png") ;
+    background-size: contain;
+    position: relative;
+}
+#dancingCompetition{
+
+    padding: 5em 0;
+    background:  url("/images/dancing.png") ;
+    background-size: contain;
+    position: relative;
+}
+#familyCompetition{
+
+    padding: 5em 0;
+    background:  url("/images/family.jpg") ;
+    background-size: contain;
+    position: relative;
+}
+#teachersCompetition{
+
+    padding: 5em 0;
+    background:  url("/images/family.jpg") ;
+    background-size: contain;
+    position: relative;
+}
